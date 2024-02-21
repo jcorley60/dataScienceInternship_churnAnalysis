@@ -17,8 +17,8 @@ It is possible to predict if an account will be closed within the next 30-days u
 
 ## PROJECT FILES
 
-1. START_HERE.txt
-	1. Project file inventory which documents project goals as well as the purpose of each project file
+1. README.md
+	1. Establishes project goals and inventories project files, bringing to light the purpose of each project file
 
 2. closed accounts_2.0_written_to_table.ipynb
 	1. finds closed accounts w/in Snowflake-Snowpark data warehouse, using functional programming, for lookback period
